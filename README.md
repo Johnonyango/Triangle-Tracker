@@ -3,7 +3,7 @@
 #### {This Triangle-Tracker project tests the knowledge of Java script concepts such as js functions, logical operators and more}, {03/06/2019}
 #### By **{John Onyango}**
 ## Description
-{This project is testing several concepts learned in this course so far. The main concepts applied are the knowledge gained in javascript functions, control flaws, operators and htm, css and many others. }
+{This project is testing several concepts learned in this course so far. The main concepts applied are the knowledge gained in javascript functions, control flaws, operators and html, css and many others. }
 ## Setup/Installation Requirements
 * clone to link https://github.com/Johnonyango/Triangle-Tracker.git
 * cd Triangle-Tracker to your directory
