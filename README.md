@@ -21,7 +21,8 @@
  |None of the sides are equal| 2,3,4                   | scalene  triangle   |
  |The sum of two sides is    | 2,2,4                   |  Not a triangle     |
  |less than or equal one of  |                         |                     |
- |the three sides            |                         |                     |
+ |the three sides    
+         |                         |                     |
 ## Technologies/Tools Used
 javascript
 {html
