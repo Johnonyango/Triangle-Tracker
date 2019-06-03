@@ -6,12 +6,21 @@
 {This project is testing several concepts learned in this course so far. The main concepts applied are the knowledge gained in javascript functions, control flaws, operators and htm, css and many others. }
 ## Setup/Installation Requirements
 * clone to link https://github.com/Johnonyango/Triangle-Tracker.git
-* cd Triangle-project to your directory
+* cd Triangle-Tracker to your directory
 * double check
 * open with your browser
 * edit the browser as per any necessity
 ## Known Bugs
 {several debugs made to the scripts.js}
+##BDD
+ |Behavior                   |Input Values             | Results             |
+ |___________________________|_________________________|_____________________|
+ |All sides are equal        |2,2,2                    | Equilateral triangle|
+ |Only two sides are equal   |2,2,5                    | Isosceles triangle  |
+ |None of the sides are equal| 2,3,4                   | scalene  triangle   |
+ |The sum of two sides is    | 2,2,4                   |  Not a triangle     |
+ |less than or equal one of  |                         |                     |
+ |the three sides            |                         |                     |
 ## Technologies/Tools Used
 javascript
 {html
