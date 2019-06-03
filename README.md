@@ -12,6 +12,7 @@
 * edit the browser as per any necessity
 ## Known Bugs
 {several debugs made to the scripts.js}
+
 ##BDD
  |Behavior                   |Input Values             | Results             |
  |___________________________|_________________________|_____________________|
