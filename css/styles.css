@@ -1,0 +1,26 @@
+body{
+  background-image: url("https://wallpaperplay.com/walls/full/8/c/5/124567.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p1 {
+  color:white;
+  font-size: 40px;
+  font-style: italic;
+}
+.jumbotron{
+  background-color: transparent;
+  text-align: center;
+  color: indigo;
+}
+h1 {
+  font-weight:bolder;
+  font-style: oblique;
+  font-size: 50px;
+}
+.container {
+  text-align: center;
+}
+.fom p {
+  color: white;
+  font-weight: bold;
