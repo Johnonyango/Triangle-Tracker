@@ -7,7 +7,8 @@ var c =parseInt(document.getElementById("c").value);
     alert("equilateral triangle")
   }
 
-   else if(b===c && b + c > a|| a===b && a + b > c|| a===c && a + c > b|| c===a && c + a > b){
+   else if(b===c && b + c > a|| a===b &&
+     a + b > c|| a===c && a + c > b|| c===a && c + a > b){
       alert("isosceless triangle");
   }
 
