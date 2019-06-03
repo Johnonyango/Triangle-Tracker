@@ -3,8 +3,15 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
-p {
+.p1 {
   color:white;
-  font-size: 20px;
+  font-size: 40px;
   font-style: italic;
+}
+.jumbotron{
+  background-color: transparent;
+  font-weight:bolder;
+  font-style: oblique;
+  text-align: center;
+  color: indigo;
 }
