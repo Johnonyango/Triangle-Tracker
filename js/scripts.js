@@ -21,8 +21,4 @@ var c =parseFloat(document.getElementById("c").value);
        alert("scalene  triangle");
     }
    else(alert("Please input value!"))
-
-
-
-
 }
