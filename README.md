@@ -27,6 +27,7 @@
 javascript
 {html
 CSS
+bootstrap
 git
 github}
 ## Support and contact details
