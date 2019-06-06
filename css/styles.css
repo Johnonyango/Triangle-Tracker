@@ -1,5 +1,5 @@
 body{
-  background-image: url("https://wallpaperplay.com/walls/full/8/c/5/124567.jpg");
+  background-image: url("https://ak8.picdn.net/shutterstock/videos/1025596838/thumb/11.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -8,15 +8,16 @@ body{
   font-size: 40px;
   font-style: italic;
 }
-.jumbotron{
-  background-color: transparent;
+.Jumbotron{
+  /* background-color: transparent; */
   text-align: center;
-  color: indigo;
+  /* color: indigo; */
 }
 h1 {
   font-weight:bolder;
   font-style: oblique;
   font-size: 50px;
+  color: white;
 }
 .container {
   text-align: center;
